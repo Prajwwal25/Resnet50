@@ -174,11 +174,13 @@ Initial learning rate: 0.0001
 Maximum epochs: 10
 Early stopping patience: 5
 Learning rate reduction factor: 0.2
-
+```
 
 ### Source
+```
 - Dataset available on Kaggle: [NEU Metal Surface Defects Dataset](https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database)
 - Original source: [NEU Database](http://faculty.neu.edu.cn/songkc/en/zhym/263024/list/index.htm)
+```
 
 
 
